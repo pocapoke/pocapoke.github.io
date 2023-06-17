@@ -1,0 +1,39 @@
+.elementor-102 .elementor-element.elementor-element-72b52b12 > .elementor-container {min-height: 90px;}
+.elementor-102 .elementor-element.elementor-element-72b52b12 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-102 .elementor-element.elementor-element-72b52b12:not(.elementor-motion-effects-element-type-background), .elementor-102 .elementor-element.elementor-element-72b52b12 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: var(--e-global-color-b70c8e2);}
+.elementor-102 .elementor-element.elementor-element-72b52b12 {border-style: dotted;border-width: 1px 0px 0px 0px;border-color: #d6d6d6;transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-102 .elementor-element.elementor-element-72b52b12 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-bc-flex-widget .elementor-102 .elementor-element.elementor-element-58215594.elementor-column .elementor-widget-wrap {align-items: center;}
+.elementor-102 .elementor-element.elementor-element-58215594.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: center;align-items: center;}
+.elementor-102 .elementor-element.elementor-element-58215594.elementor-column > .elementor-widget-wrap {justify-content: center;}
+.elementor-102 .elementor-element.elementor-element-58215594 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 10px;}
+.elementor-102 .elementor-element.elementor-element-58215594 > .elementor-element-populated {padding: 50px 0px 50px 0px;}
+.elementor-102 .elementor-element.elementor-element-e826cb9 {text-align: center;}
+.elementor-102 .elementor-element.elementor-element-e826cb9 .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 30px;font-weight: 400;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
+.elementor-102 .elementor-element.elementor-element-46dba2e {text-align: center;}
+.elementor-102 .elementor-element.elementor-element-46dba2e .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 25px;font-weight: 900;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
+.elementor-102 .elementor-element.elementor-element-260601b {padding: 20px 0px 20px 0px;}
+.elementor-102 .elementor-element.elementor-element-a4c3fcc .elementor-icon-list-icon i {transition: color .3s;}
+.elementor-102 .elementor-element.elementor-element-a4c3fcc .elementor-icon-list-icon svg {transition: fill .3s;}
+.elementor-102 .elementor-element.elementor-element-a4c3fcc {--e-icon-list-icon-size: 25px;--e-icon-list-icon-align: center;--e-icon-list-icon-margin: 0 calc(var(--e-icon-list-icon-size,1em) * .125);--icon-vertical-align: center;}
+.elementor-102 .elementor-element.elementor-element-a4c3fcc .elementor-icon-list-item > .elementor-icon-list-text, .elementor-102 .elementor-element.elementor-element-a4c3fcc .elementor-icon-list-item > a {font-family: "Poppins",Sans-serif;font-size: 25px;font-weight: 500;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
+.elementor-102 .elementor-element.elementor-element-a4c3fcc .elementor-icon-list-text {text-shadow: 0px 0px 10px rgba(0,0,0,.3);color: var(--e-global-color-primary);transition: color .3s;}
+.elementor-102 .elementor-element.elementor-element-27c20bb .elementor-icon-list-icon i {transition: color .3s;}
+.elementor-102 .elementor-element.elementor-element-27c20bb .elementor-icon-list-icon svg {transition: fill .3s;}
+.elementor-102 .elementor-element.elementor-element-27c20bb {--e-icon-list-icon-size: 25px;--e-icon-list-icon-align: center;--e-icon-list-icon-margin: 0 calc(var(--e-icon-list-icon-size,1em) * .125);--icon-vertical-align: center;--icon-vertical-offset: 0px;}
+.elementor-102 .elementor-element.elementor-element-27c20bb .elementor-icon-list-item > .elementor-icon-list-text, .elementor-102 .elementor-element.elementor-element-27c20bb .elementor-icon-list-item > a {font-family: "Poppins",Sans-serif;font-size: 25px;font-weight: 500;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
+.elementor-102 .elementor-element.elementor-element-27c20bb .elementor-icon-list-text {color: var(--e-global-color-primary);transition: color .3s;}
+.elementor-102 .elementor-element.elementor-element-6177828 {--divider-border-style: solid;--divider-color: rgba(28,36,75,.58);--divider-border-width: 1px;}
+.elementor-102 .elementor-element.elementor-element-6177828 .elementor-divider-separator {width: 100%;margin: 0 auto;margin-center: 0;}
+.elementor-102 .elementor-element.elementor-element-6177828 .elementor-divider {text-align: center;padding-top: 5px;padding-bottom: 5px;}
+.elementor-102 .elementor-element.elementor-element-acc8e5a {--grid-template-columns: repeat(0,auto);--icon-size: 20px;--grid-column-gap: 30px;}
+.elementor-102 .elementor-element.elementor-element-acc8e5a .elementor-widget-container {text-align: center;}
+@media (max-width:1024px) {.elementor-102 .elementor-element.elementor-element-72b52b12 {padding: 10px 20px 10px 20px;}
+	.elementor-102 .elementor-element.elementor-element-e826cb9 .elementor-heading-title {font-size: 30px;}
+	.elementor-102 .elementor-element.elementor-element-46dba2e .elementor-heading-title {font-size: 25px;}
+	.elementor-102 .elementor-element.elementor-element-a4c3fcc .elementor-icon-list-item > .elementor-icon-list-text, .elementor-102 .elementor-element.elementor-element-a4c3fcc .elementor-icon-list-item > a {font-size: 14px;}
+	.elementor-102 .elementor-element.elementor-element-27c20bb .elementor-icon-list-item > .elementor-icon-list-text, .elementor-102 .elementor-element.elementor-element-27c20bb .elementor-icon-list-item > a {font-size: 14px;}}
+@media (max-width:767px) {.elementor-102 .elementor-element.elementor-element-72b52b12 {padding: 20px 20px 0px 20px;}
+	.elementor-102 .elementor-element.elementor-element-e826cb9 .elementor-heading-title {font-size: 30px;line-height: 1.1em;}
+	.elementor-102 .elementor-element.elementor-element-46dba2e .elementor-heading-title {font-size: 25px;line-height: 1.1em;}
+	.elementor-102 .elementor-element.elementor-element-acc8e5a {--grid-column-gap: 25px;}}

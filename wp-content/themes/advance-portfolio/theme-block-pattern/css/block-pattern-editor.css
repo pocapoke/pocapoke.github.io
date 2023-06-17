@@ -1,0 +1,10 @@
+.banner-section img, .service-section img {width: 100% !important;}
+.banner-section-content h1, .banner-section-content p, .service-section h2 {font-family: "Montserrat",sans-serif;}
+.banner-section-content h1, .service-section h2 {font-weight: 700;}
+.social-icons .wp-block-social-link-anchor {border-top-left-radius: 15px;border-bottom-right-radius: 15px;border: 1px solid !important;padding: 10px 8px !important;color: #202020 !important;font-size: 14px;}
+.social-icons .wp-block-social-link-anchor:hover {background: #f54ea2;}
+.social-icons .wp-block-social-link-anchor:hover svg {color: #ffdd65 !important;}
+.banner-section-content ul {gap: .2em !important;}
+.service-section .port-box-1.wp-block-columns, .service-section .wp-block-columns {gap: 1em !important;}
+.port-box-1.wp-block-columns, .service-section .block-editor-block-list__block.wp-block
+.wp-block-columns.block-editor-block-list__layout {margin-top: 0px !important;}
