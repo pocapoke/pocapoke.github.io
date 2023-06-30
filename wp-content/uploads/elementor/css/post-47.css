@@ -1,6 +1,5 @@
 .elementor-47 .elementor-element.elementor-element-11f5cd5a > .elementor-container {min-height: 70vh;}
 .elementor-47 .elementor-element.elementor-element-11f5cd5a > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
-.elementor-47 .elementor-element.elementor-element-11f5cd5a:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-11f5cd5a > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://pocapoke.github.io/wp-content/uploads/2023/06/daduck.png");background-position: center center;background-size: contain;}
 .elementor-47 .elementor-element.elementor-element-11f5cd5a {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0% 0% 0% 0%;}
 .elementor-47 .elementor-element.elementor-element-11f5cd5a > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-47 .elementor-element.elementor-element-aca1db9 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
@@ -24,27 +23,37 @@
 .elementor-47 .elementor-element.elementor-element-446f3161 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 0% 0% 0% 0%;}
 .elementor-47 .elementor-element.elementor-element-446f3161 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-47 .elementor-element.elementor-element-1bd44a03 > .elementor-element-populated {padding: 10% 5% 0% 20%;}
-.elementor-47 .elementor-element.elementor-element-62c9d787 .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
-.elementor-47 .elementor-element.elementor-element-4dce2d81 {font-family: "Poppins",Sans-serif;font-size: 16px;font-weight: 300;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-62c9d787 .elementor-heading-title {color: #1c244b;font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;-webkit-text-stroke-color: #000;stroke: #000;text-shadow: 0px 0px 10px rgba(0,0,0,.3);}
+.elementor-47 .elementor-element.elementor-element-4dce2d81 {font-family: "Poppins",Sans-serif;font-size: 20px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
 .elementor-47 .elementor-element.elementor-element-4dce2d81 > .elementor-widget-container {margin: 0px 0px -16px 0px;}
+.elementor-47 .elementor-element.elementor-element-e49fbd6 {--spacer-size: 30px;}
+.elementor-47 .elementor-element.elementor-element-38bd56f .elementor-button {font-family: "Poppins",Sans-serif;font-size: 19px;font-weight: 600;text-transform: capitalize;font-style: normal;text-decoration: none;line-height: 1em;letter-spacing: 0px;text-shadow: 0px 0px 10px rgba(0,0,0,.3);background-color: #1c244b;}
+.elementor-47 .elementor-element.elementor-element-38bd56f .elementor-button:hover, .elementor-47 .elementor-element.elementor-element-38bd56f .elementor-button:focus {background-color: #467ff7;}
 .elementor-47 .elementor-element.elementor-element-7d4607c > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
-.elementor-47 .elementor-element.elementor-element-7d4607c:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-47 .elementor-element.elementor-element-7d4607c > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://pocapoke.github.io/wp-content/uploads/2023/06/daduck.png");background-position: center center;background-size: contain;}
 .elementor-47 .elementor-element.elementor-element-7d4607c > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0% 0% 0% 0%;}
 .elementor-47 .elementor-element.elementor-element-7d4607c > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-347635e > .elementor-container {min-height: 650px;}
+.elementor-47 .elementor-element.elementor-element-347635e {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-47 .elementor-element.elementor-element-347635e > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-47 .elementor-element.elementor-element-e3dbe14 > .elementor-container {min-height: 650px;}
 .elementor-47 .elementor-element.elementor-element-e3dbe14 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-47 .elementor-element.elementor-element-e3dbe14:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-e3dbe14 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
 .elementor-47 .elementor-element.elementor-element-e3dbe14 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 20px;margin-bottom: 20px;padding: 0% 0% 0% 0%;}
 .elementor-47 .elementor-element.elementor-element-e3dbe14 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
-.elementor-47 .elementor-element.elementor-element-0ce4048:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-47 .elementor-element.elementor-element-0ce4048 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://pocapoke.github.io/wp-content/uploads/2023/06/daduck.png");background-position: center center;background-size: contain;}
 .elementor-47 .elementor-element.elementor-element-0ce4048 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0% 5% 0% 5%;}
 .elementor-47 .elementor-element.elementor-element-0ce4048 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-802a73d > .elementor-container {min-height: 650px;}
+.elementor-47 .elementor-element.elementor-element-802a73d {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;}
+.elementor-47 .elementor-element.elementor-element-802a73d > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-bc-flex-widget .elementor-47 .elementor-element.elementor-element-6e6dc5f.elementor-column .elementor-widget-wrap {align-items: flex-start;}
 .elementor-47 .elementor-element.elementor-element-6e6dc5f.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-start;align-items: flex-start;}
 .elementor-47 .elementor-element.elementor-element-6e6dc5f > .elementor-element-populated {padding: 10% 20% 0% 5%;}
 .elementor-47 .elementor-element.elementor-element-37b59b7 .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
-.elementor-47 .elementor-element.elementor-element-d1d9911 {font-family: "Poppins",Sans-serif;font-size: 16px;font-weight: 300;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-d1d9911 {font-family: "Poppins",Sans-serif;font-size: 20px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
 .elementor-47 .elementor-element.elementor-element-d1d9911 > .elementor-widget-container {margin: 0px 0px -16px 0px;}
+.elementor-47 .elementor-element.elementor-element-423a4b1 {--spacer-size: 30px;}
+.elementor-47 .elementor-element.elementor-element-9f2bd2a .elementor-button {font-family: "Poppins",Sans-serif;font-size: 19px;font-weight: 600;text-transform: capitalize;font-style: normal;text-decoration: none;line-height: 1em;letter-spacing: 0px;text-shadow: 0px 0px 10px rgba(0,0,0,.3);background-color: var(--e-global-color-primary);}
+.elementor-47 .elementor-element.elementor-element-9f2bd2a .elementor-button:hover, .elementor-47 .elementor-element.elementor-element-9f2bd2a .elementor-button:focus {background-color: var(--e-global-color-accent);}
 .elementor-47 .elementor-element.elementor-element-940fd20 > .elementor-container {min-height: 650px;}
 .elementor-47 .elementor-element.elementor-element-940fd20 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-47 .elementor-element.elementor-element-940fd20:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-940fd20 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #dce4ea;}
@@ -54,11 +63,50 @@
 .elementor-47 .elementor-element.elementor-element-2bd6760.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-start;align-items: flex-start;}
 .elementor-47 .elementor-element.elementor-element-2bd6760 > .elementor-element-populated {padding: 10% 5% 0% 20%;}
 .elementor-47 .elementor-element.elementor-element-60a4d1b .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
-.elementor-47 .elementor-element.elementor-element-ba5f4be {font-family: "Poppins",Sans-serif;font-size: 16px;font-weight: 300;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-ba5f4be {font-family: "Poppins",Sans-serif;font-size: 20px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
 .elementor-47 .elementor-element.elementor-element-ba5f4be > .elementor-widget-container {margin: 0px 0px -16px 0px;}
+.elementor-47 .elementor-element.elementor-element-b6df419 {--spacer-size: 30px;}
+.elementor-47 .elementor-element.elementor-element-87c6fa8 .elementor-button {font-family: "Poppins",Sans-serif;font-size: 19px;font-weight: 600;text-transform: capitalize;font-style: normal;text-decoration: none;line-height: 1em;letter-spacing: 0px;text-shadow: 0px 0px 10px rgba(0,0,0,.3);background-color: var(--e-global-color-primary);}
+.elementor-47 .elementor-element.elementor-element-87c6fa8 .elementor-button:hover, .elementor-47 .elementor-element.elementor-element-87c6fa8 .elementor-button:focus {background-color: var(--e-global-color-accent);}
 .elementor-47 .elementor-element.elementor-element-ca773e2:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-47 .elementor-element.elementor-element-ca773e2 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://pocapoke.github.io/wp-content/uploads/2023/06/daduck.png");background-position: center center;background-size: contain;}
 .elementor-47 .elementor-element.elementor-element-ca773e2 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0% 5% 0% 5%;}
 .elementor-47 .elementor-element.elementor-element-ca773e2 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-container {min-height: 650px;}
+.elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: flex-start;align-items: flex-start;}
+.elementor-47 .elementor-element.elementor-element-5787d39:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #dce4ea;}
+.elementor-47 .elementor-element.elementor-element-5787d39 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 0% 0% 0% 0%;}
+.elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-8895d82:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-47 .elementor-element.elementor-element-8895d82 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: transparent;background-image: linear-gradient(180deg,#fff 10%,rgba(255,0,63,0) 30%);}
+.elementor-47 .elementor-element.elementor-element-8895d82 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 10% 5% 0% 20%;}
+.elementor-47 .elementor-element.elementor-element-8895d82 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-c25bda3 .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-1b8660a {font-family: "Poppins",Sans-serif;font-size: 16px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-1b8660a > .elementor-widget-container {margin: 0px 0px -16px 0px;}
+.elementor-47 .elementor-element.elementor-element-72f53e8 {--spacer-size: 50px;}
+.elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-container {min-height: 650px;}
+.elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-47 .elementor-element.elementor-element-1a4714d:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
+.elementor-47 .elementor-element.elementor-element-1a4714d {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 20px;margin-bottom: 20px;padding: 0% 0% 0% 0%;}
+.elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-3d002d2:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-47 .elementor-element.elementor-element-3d002d2 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: transparent;background-image: linear-gradient(180deg,#fff 10%,rgba(255,0,63,0) 30%);}
+.elementor-47 .elementor-element.elementor-element-3d002d2 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 10% 5% 0% 20%;}
+.elementor-47 .elementor-element.elementor-element-3d002d2 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-50e6ddb .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-bec09ba {font-family: "Poppins",Sans-serif;font-size: 16px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-bec09ba > .elementor-widget-container {margin: 0px 0px -16px 0px;}
+.elementor-47 .elementor-element.elementor-element-1bb3cdd {--spacer-size: 50px;}
+.elementor-47 .elementor-element.elementor-element-5c65636 > .elementor-container {min-height: 650px;}
+.elementor-47 .elementor-element.elementor-element-5c65636 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-47 .elementor-element.elementor-element-5c65636:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-5c65636 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #dce4ea;}
+.elementor-47 .elementor-element.elementor-element-5c65636 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0% 0% 0% 0%;}
+.elementor-47 .elementor-element.elementor-element-5c65636 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-2bb3e7f:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-47 .elementor-element.elementor-element-2bb3e7f > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: transparent;background-image: linear-gradient(180deg,#fff 10%,rgba(255,0,63,0) 30%);}
+.elementor-47 .elementor-element.elementor-element-2bb3e7f > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 10% 5% 0% 20%;}
+.elementor-47 .elementor-element.elementor-element-2bb3e7f > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-b67b3f8 .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-b614765 {font-family: "Poppins",Sans-serif;font-size: 16px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-b614765 > .elementor-widget-container {margin: 0px 0px -16px 0px;}
+.elementor-47 .elementor-element.elementor-element-ecc21ed {--spacer-size: 50px;}
 .elementor-47 .elementor-element.elementor-element-12af9f73 {overflow: hidden;margin-top: 0%;margin-bottom: 0%;padding: 0% 8% 0% 8%;}
 .elementor-47 .elementor-element.elementor-element-378f7356.elementor-column > .elementor-widget-wrap {justify-content: center;}
 .elementor-47 .elementor-element.elementor-element-5202fbe6 > .elementor-container {max-width: 820px;}
@@ -135,17 +183,37 @@
 	.elementor-47 .elementor-element.elementor-element-1bd44a03 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 10px;}
 	.elementor-47 .elementor-element.elementor-element-62c9d787 .elementor-heading-title {font-size: 30px;}
 	.elementor-47 .elementor-element.elementor-element-62c9d787 {width: 100%;max-width: 100%;}
-	.elementor-47 .elementor-element.elementor-element-4dce2d81 {font-size: 12px;width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-4dce2d81 {font-size: 14px;width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-38bd56f .elementor-button {font-size: 14px;}
+	.elementor-47 .elementor-element.elementor-element-347635e > .elementor-container {min-height: 400px;}
 	.elementor-47 .elementor-element.elementor-element-e3dbe14 > .elementor-container {min-height: 400px;}
+	.elementor-47 .elementor-element.elementor-element-802a73d > .elementor-container {min-height: 400px;}
 	.elementor-47 .elementor-element.elementor-element-6e6dc5f > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 10px;}
 	.elementor-47 .elementor-element.elementor-element-37b59b7 .elementor-heading-title {font-size: 30px;}
 	.elementor-47 .elementor-element.elementor-element-37b59b7 {width: 100%;max-width: 100%;}
 	.elementor-47 .elementor-element.elementor-element-d1d9911 {font-size: 14px;width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-9f2bd2a .elementor-button {font-size: 14px;}
 	.elementor-47 .elementor-element.elementor-element-940fd20 > .elementor-container {min-height: 400px;}
 	.elementor-47 .elementor-element.elementor-element-2bd6760 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 10px;}
 	.elementor-47 .elementor-element.elementor-element-60a4d1b .elementor-heading-title {font-size: 30px;}
 	.elementor-47 .elementor-element.elementor-element-60a4d1b {width: 100%;max-width: 100%;}
-	.elementor-47 .elementor-element.elementor-element-ba5f4be {font-size: 12px;width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-ba5f4be {font-size: 14px;width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-87c6fa8 .elementor-button {font-size: 14px;}
+	.elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-container {min-height: 400px;}
+	.elementor-47 .elementor-element.elementor-element-8895d82 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 10px;}
+	.elementor-47 .elementor-element.elementor-element-c25bda3 .elementor-heading-title {font-size: 30px;}
+	.elementor-47 .elementor-element.elementor-element-c25bda3 {width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-1b8660a {font-size: 12px;width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-container {min-height: 400px;}
+	.elementor-47 .elementor-element.elementor-element-3d002d2 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 10px;}
+	.elementor-47 .elementor-element.elementor-element-50e6ddb .elementor-heading-title {font-size: 30px;}
+	.elementor-47 .elementor-element.elementor-element-50e6ddb {width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-bec09ba {font-size: 12px;width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-5c65636 > .elementor-container {min-height: 400px;}
+	.elementor-47 .elementor-element.elementor-element-2bb3e7f > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 10px;}
+	.elementor-47 .elementor-element.elementor-element-b67b3f8 .elementor-heading-title {font-size: 30px;}
+	.elementor-47 .elementor-element.elementor-element-b67b3f8 {width: 100%;max-width: 100%;}
+	.elementor-47 .elementor-element.elementor-element-b614765 {font-size: 12px;width: 100%;max-width: 100%;}
 	.elementor-47 .elementor-element.elementor-element-12af9f73 {margin-top: 25%;margin-bottom: 0%;padding: 0% 5% 0% 5%;}
 	.elementor-47 .elementor-element.elementor-element-5b59d470 {font-size: var(--e-global-typography-c05b693-font-size);line-height: var(--e-global-typography-c05b693-line-height);letter-spacing: var(--e-global-typography-c05b693-letter-spacing);word-spacing: var(--e-global-typography-c05b693-word-spacing);}
 	.elementor-47 .elementor-element.elementor-element-37e4cb54 > .elementor-element-populated {margin: 0% 10% 0% 0%;--e-column-margin-right: 10%;--e-column-margin-left: 0%;}
@@ -187,6 +255,36 @@
 	.elementor-47 .elementor-element.elementor-element-2bd6760 > .elementor-element-populated {margin: 0px 0px -120px 0px;--e-column-margin-right: 0px;--e-column-margin-left: 0px;padding: 3% 5% 0% 5%;}
 	.elementor-47 .elementor-element.elementor-element-60a4d1b .elementor-heading-title {font-size: 28px;line-height: 1.1em;}
 	.elementor-47 .elementor-element.elementor-element-ba5f4be > .elementor-widget-container {margin: 0px 0px 0px 0px;}
+	.elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-container {min-height: 300px;}
+	.elementor-47 .elementor-element.elementor-element-5787d39:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://pocapoke.github.io/wp-content/uploads/2023/06/LogoNEW-inverted.png");background-position: bottom center;background-repeat: no-repeat;background-size: contain;}
+	.elementor-bc-flex-widget .elementor-47 .elementor-element.elementor-element-8895d82.elementor-column .elementor-widget-wrap {align-items: flex-start;}
+	.elementor-47 .elementor-element.elementor-element-8895d82.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-start;align-items: flex-start;}
+	.elementor-47 .elementor-element.elementor-element-8895d82 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 5px;}
+	.elementor-47 .elementor-element.elementor-element-8895d82 > .elementor-element-populated {margin: 0px 0px -120px 0px;--e-column-margin-right: 0px;--e-column-margin-left: 0px;padding: 3% 5% 0% 5%;}
+	.elementor-47 .elementor-element.elementor-element-c25bda3 .elementor-heading-title {font-size: 28px;line-height: 1.1em;}
+	.elementor-47 .elementor-element.elementor-element-1b8660a {font-size: 16px;line-height: 1.3em;}
+	.elementor-47 .elementor-element.elementor-element-1b8660a > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0% 0% 0% 0%;}
+	.elementor-47 .elementor-element.elementor-element-72f53e8 {--spacer-size: 10px;}
+	.elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-container {min-height: 300px;}
+	.elementor-47 .elementor-element.elementor-element-1a4714d:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://pocapoke.github.io/wp-content/uploads/2023/06/LogoNEW.png");background-position: center center;background-repeat: no-repeat;background-size: contain;}
+	.elementor-bc-flex-widget .elementor-47 .elementor-element.elementor-element-3d002d2.elementor-column .elementor-widget-wrap {align-items: flex-start;}
+	.elementor-47 .elementor-element.elementor-element-3d002d2.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-start;align-items: flex-start;}
+	.elementor-47 .elementor-element.elementor-element-3d002d2 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 5px;}
+	.elementor-47 .elementor-element.elementor-element-3d002d2 > .elementor-element-populated {margin: 0px 0px -120px 0px;--e-column-margin-right: 0px;--e-column-margin-left: 0px;padding: 3% 5% 0% 5%;}
+	.elementor-47 .elementor-element.elementor-element-50e6ddb .elementor-heading-title {font-size: 28px;line-height: 1.1em;}
+	.elementor-47 .elementor-element.elementor-element-bec09ba {font-size: 16px;line-height: 1.3em;}
+	.elementor-47 .elementor-element.elementor-element-bec09ba > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0% 0% 0% 0%;}
+	.elementor-47 .elementor-element.elementor-element-1bb3cdd {--spacer-size: 10px;}
+	.elementor-47 .elementor-element.elementor-element-5c65636 > .elementor-container {min-height: 300px;}
+	.elementor-47 .elementor-element.elementor-element-5c65636:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-5c65636 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-image: url("https://pocapoke.github.io/wp-content/uploads/2023/06/daduck.png");background-position: center center;background-size: cover;}
+	.elementor-bc-flex-widget .elementor-47 .elementor-element.elementor-element-2bb3e7f.elementor-column .elementor-widget-wrap {align-items: flex-start;}
+	.elementor-47 .elementor-element.elementor-element-2bb3e7f.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated {align-content: flex-start;align-items: flex-start;}
+	.elementor-47 .elementor-element.elementor-element-2bb3e7f > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 5px;}
+	.elementor-47 .elementor-element.elementor-element-2bb3e7f > .elementor-element-populated {margin: 0px 0px -120px 0px;--e-column-margin-right: 0px;--e-column-margin-left: 0px;padding: 3% 5% 0% 5%;}
+	.elementor-47 .elementor-element.elementor-element-b67b3f8 .elementor-heading-title {font-size: 28px;line-height: 1.1em;}
+	.elementor-47 .elementor-element.elementor-element-b614765 {font-size: 16px;line-height: 1.3em;}
+	.elementor-47 .elementor-element.elementor-element-b614765 > .elementor-widget-container {margin: 0px 0px 0px 0px;padding: 0% 0% 0% 0%;}
+	.elementor-47 .elementor-element.elementor-element-ecc21ed {--spacer-size: 10px;}
 	.elementor-47 .elementor-element.elementor-element-12af9f73 {margin-top: 35%;margin-bottom: 0%;}
 	.elementor-47 .elementor-element.elementor-element-5b59d470 {font-size: var(--e-global-typography-c05b693-font-size);line-height: var(--e-global-typography-c05b693-line-height);letter-spacing: var(--e-global-typography-c05b693-letter-spacing);word-spacing: var(--e-global-typography-c05b693-word-spacing);}
 	.elementor-47 .elementor-element.elementor-element-7ed83a27 {margin-top: 20%;margin-bottom: 0%;}
@@ -223,8 +321,17 @@
 	.elementor-47 .elementor-element.elementor-element-6e6dc5f {width: 40%;}
 	.elementor-47 .elementor-element.elementor-element-2bd6760 {width: 40%;}
 	.elementor-47 .elementor-element.elementor-element-ca773e2 {width: 60%;}
+	.elementor-47 .elementor-element.elementor-element-8895d82 {width: 40%;}
+	.elementor-47 .elementor-element.elementor-element-3d002d2 {width: 40%;}
+	.elementor-47 .elementor-element.elementor-element-2bb3e7f {width: 40%;}
 	.elementor-47 .elementor-element.elementor-element-37e4cb54 {width: 50%;}
 	.elementor-47 .elementor-element.elementor-element-47743cff {width: 50%;}
 	.elementor-47 .elementor-element.elementor-element-3e57a891 {width: 50%;}
 	.elementor-47 .elementor-element.elementor-element-3aeb7b3f {width: 50%;}
 	.elementor-47 .elementor-element.elementor-element-76d3a717 {width: 100%;}}
+.elementor-47 .elementor-element.elementor-element-62c9d787 .elementor-heading-title:hover {color: #467ff7;transition-duration: .3s;}
+.elementor-47 .elementor-element.elementor-element-37b59b7 .elementor-heading-title:hover {color: #467ff7;transition-duration: .3s;}
+.elementor-47 .elementor-element.elementor-element-60a4d1b .elementor-heading-title:hover {color: #467ff7;transition-duration: .3s;}
+.elementor-47 .elementor-element.elementor-element-c25bda3 .elementor-heading-title:hover {color: #467ff7;transition-duration: .3s;}
+.elementor-47 .elementor-element.elementor-element-50e6ddb .elementor-heading-title:hover {color: #467ff7;transition-duration: .3s;}
+.elementor-47 .elementor-element.elementor-element-b67b3f8 .elementor-heading-title:hover {color: #467ff7;transition-duration: .3s;}
