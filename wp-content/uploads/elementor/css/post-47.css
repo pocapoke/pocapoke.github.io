@@ -9,6 +9,21 @@
 .elementor-47 .elementor-element.elementor-element-79e541ec .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
 .elementor-47 .elementor-element.elementor-element-7bb19948 {font-family: "Poppins",Sans-serif;font-size: 45px;font-weight: 300;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
 .elementor-47 .elementor-element.elementor-element-7bb19948 > .elementor-widget-container {padding: 0% 0% 0% 0%;}
+.elementor-47 .elementor-element.elementor-element-e590ee3 > .elementor-container {min-height: 70vh;}
+.elementor-47 .elementor-element.elementor-element-e590ee3 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: flex-start;align-items: flex-start;}
+.elementor-47 .elementor-element.elementor-element-e590ee3 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0% 0% 0% 0%;}
+.elementor-47 .elementor-element.elementor-element-e590ee3 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-0926786 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute) {margin-bottom: 0px;}
+.elementor-47 .elementor-element.elementor-element-0926786:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-47 .elementor-element.elementor-element-0926786 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: transparent;background-image: radial-gradient(at top left,var(--e-global-color-b70c8e2) 30%,rgba(255,1,64,0) 60%);}
+.elementor-47 .elementor-element.elementor-element-0926786 > .elementor-element-populated {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 0% 50% 0% 7%;}
+.elementor-47 .elementor-element.elementor-element-0926786 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-47 .elementor-element.elementor-element-38ba67a .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-f56bc38 {font-family: "Poppins",Sans-serif;font-size: 45px;font-weight: 300;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
+.elementor-47 .elementor-element.elementor-element-f56bc38 > .elementor-widget-container {padding: 0% 0% 0% 0%;}
+.elementor-47 .elementor-element.elementor-element-d767099 .elementor-wrapper {--video-aspect-ratio: 1.77777;}
+body:not(.rtl) .elementor-47 .elementor-element.elementor-element-d767099 {left: 0px;}
+body.rtl .elementor-47 .elementor-element.elementor-element-d767099 {right: 0px;}
+.elementor-47 .elementor-element.elementor-element-d767099 {top: 0px;}
 .elementor-47 .elementor-element.elementor-element-7eb3801 {padding: 20px 0px 20px 0px;}
 .elementor-47 .elementor-element.elementor-element-b2f61dc.elementor-column > .elementor-widget-wrap {justify-content: center;}
 .elementor-47 .elementor-element.elementor-element-ac90475 {--iteration-count: infinite;--animation-duration: 2000ms;--dynamic-text-color: var(--e-global-color-b70c8e2);width: 100%;max-width: 100%;}
@@ -73,7 +88,6 @@
 .elementor-47 .elementor-element.elementor-element-ca773e2 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-container {min-height: 650px;}
 .elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: flex-start;align-items: flex-start;}
-.elementor-47 .elementor-element.elementor-element-5787d39:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #dce4ea;}
 .elementor-47 .elementor-element.elementor-element-5787d39 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 0px;margin-bottom: 0px;padding: 0% 0% 0% 0%;}
 .elementor-47 .elementor-element.elementor-element-5787d39 > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-47 .elementor-element.elementor-element-8895d82:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-47 .elementor-element.elementor-element-8895d82 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: transparent;background-image: linear-gradient(180deg,#fff 10%,rgba(255,0,63,0) 30%);}
@@ -82,10 +96,10 @@
 .elementor-47 .elementor-element.elementor-element-c25bda3 .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
 .elementor-47 .elementor-element.elementor-element-1b8660a {font-family: "Poppins",Sans-serif;font-size: 16px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
 .elementor-47 .elementor-element.elementor-element-1b8660a > .elementor-widget-container {margin: 0px 0px -16px 0px;}
+.elementor-47 .elementor-element.elementor-element-8bf1223 .elementor-wrapper {--video-aspect-ratio: 1.77777;}
 .elementor-47 .elementor-element.elementor-element-72f53e8 {--spacer-size: 50px;}
 .elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-container {min-height: 650px;}
 .elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
-.elementor-47 .elementor-element.elementor-element-1a4714d:not(.elementor-motion-effects-element-type-background), .elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #fff;}
 .elementor-47 .elementor-element.elementor-element-1a4714d {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;margin-top: 20px;margin-bottom: 20px;padding: 0% 0% 0% 0%;}
 .elementor-47 .elementor-element.elementor-element-1a4714d > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
 .elementor-47 .elementor-element.elementor-element-3d002d2:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-47 .elementor-element.elementor-element-3d002d2 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: transparent;background-image: linear-gradient(180deg,#fff 10%,rgba(255,0,63,0) 30%);}
@@ -94,6 +108,7 @@
 .elementor-47 .elementor-element.elementor-element-50e6ddb .elementor-heading-title {font-family: "Poppins",Sans-serif;font-size: 65px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.2em;letter-spacing: 0px;}
 .elementor-47 .elementor-element.elementor-element-bec09ba {font-family: "Poppins",Sans-serif;font-size: 16px;font-weight: 600;text-transform: none;font-style: normal;text-decoration: none;line-height: 1.5em;letter-spacing: 0px;}
 .elementor-47 .elementor-element.elementor-element-bec09ba > .elementor-widget-container {margin: 0px 0px -16px 0px;}
+.elementor-47 .elementor-element.elementor-element-7edefa7 .elementor-wrapper {--video-aspect-ratio: 1.77777;}
 .elementor-47 .elementor-element.elementor-element-1bb3cdd {--spacer-size: 50px;}
 .elementor-47 .elementor-element.elementor-element-5c65636 > .elementor-container {min-height: 650px;}
 .elementor-47 .elementor-element.elementor-element-5c65636 > .elementor-container > .elementor-column > .elementor-widget-wrap {align-content: center;align-items: center;}
@@ -121,6 +136,10 @@
 	.elementor-47 .elementor-element.elementor-element-11f5cd5a {padding: 0% 0% 0% 0%;}
 	.elementor-47 .elementor-element.elementor-element-79e541ec .elementor-heading-title {font-size: 40px;}
 	.elementor-47 .elementor-element.elementor-element-7bb19948 {font-size: 19px;}
+	.elementor-47 .elementor-element.elementor-element-e590ee3 > .elementor-container {min-height: 30vh;}
+	.elementor-47 .elementor-element.elementor-element-e590ee3 {padding: 0% 0% 0% 0%;}
+	.elementor-47 .elementor-element.elementor-element-38ba67a .elementor-heading-title {font-size: 40px;}
+	.elementor-47 .elementor-element.elementor-element-f56bc38 {font-size: 19px;}
 	.elementor-47 .elementor-element.elementor-element-ac90475 .elementor-headline {font-size: 20px;letter-spacing: -1px;}
 	.elementor-47 .elementor-element.elementor-element-ac90475 .elementor-headline-dynamic-text {letter-spacing: -1px;}
 	.elementor-47 .elementor-element.elementor-element-ac90475 .elementor-headline .elementor-headline-dynamic-wrapper {-webkit-text-stroke-width: 1px;stroke-width: 1px;}
@@ -168,6 +187,14 @@
 @media (max-width:767px) {.elementor-47 .elementor-element.elementor-element-79e541ec .elementor-heading-title {font-size: 19px;line-height: 1.1em;}
 	.elementor-47 .elementor-element.elementor-element-7bb19948 {font-size: 14px;}
 	.elementor-47 .elementor-element.elementor-element-7bb19948 > .elementor-widget-container {padding: 0px 0px 0px 0px;}
+	.elementor-47 .elementor-element.elementor-element-e590ee3 > .elementor-container {min-height: 190px;}
+	.elementor-47 .elementor-element.elementor-element-e590ee3 {padding: 0px 0px 0px 0px;}
+	.elementor-47 .elementor-element.elementor-element-0926786 > .elementor-element-populated {padding: 20px 0px 0px 10px;}
+	.elementor-47 .elementor-element.elementor-element-38ba67a .elementor-heading-title {font-size: 19px;line-height: 1.1em;}
+	.elementor-47 .elementor-element.elementor-element-38ba67a {z-index: 1;}
+	.elementor-47 .elementor-element.elementor-element-f56bc38 {font-size: 14px;z-index: 1;}
+	.elementor-47 .elementor-element.elementor-element-f56bc38 > .elementor-widget-container {padding: 0px 0px 0px 0px;}
+	.elementor-47 .elementor-element.elementor-element-d767099 {z-index: -1;}
 	.elementor-47 .elementor-element.elementor-element-7eb3801 {padding: 0px 0px 0px 0px;}
 	.elementor-47 .elementor-element.elementor-element-ac90475 .elementor-headline {font-size: 9px;line-height: 1.1em;}
 	.elementor-47 .elementor-element.elementor-element-ac90475 .elementor-headline-dynamic-text {line-height: 1.1em;}
