@@ -1,0 +1,1 @@
+jQuery(document).on("ajaxSuccess",(function(n,o,a){a.data.includes("xoo_el_form_action")&&window.hCaptchaBindEvents()}));

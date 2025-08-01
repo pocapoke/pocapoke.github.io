@@ -1,0 +1,1 @@
+(()=>{var n=function(n){n(document.body).on("checkout_error",(function(){return window.hCaptchaBindEvents()})),n(document.body).on("updated_checkout",(function(){return window.hCaptchaBindEvents()}))};window.hCaptchaWC=n,jQuery(document).ready(n)})();

@@ -1,0 +1,1 @@
+jQuery(document).on("ajaxSuccess",(function(n,t,a){var c,o=null!==(c=a.data)&&void 0!==c?c:"";"string"==typeof o&&o.includes("et_pb_contactform_submit_")&&window.hCaptchaBindEvents()}));
